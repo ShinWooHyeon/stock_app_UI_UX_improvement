@@ -11,7 +11,6 @@
 - 주제와 목적에 맞는 설문조사 타겟층 구성
 - 기존 UI와 비교하여 구체적인 항목들에 대해 조사
 - 설문조사 결과 분석
-<img width="292" alt="MSD" src= "https://github.com/ShinWooHyeon/Selection_of_best_location_project/assets/118239192/43c078e5-671c-4e2d-9f2e-af38da7e0219">
 ![image](https://github.com/ShinWooHyeon/Selection_of_best_location_project/assets/118239192/43c078e5-671c-4e2d-9f2e-af38da7e0219)
 ![image](https://github.com/ShinWooHyeon/Selection_of_best_location_project/assets/118239192/0b768712-d88a-401f-bf5d-1a1d2f5aaa0b)
 ![image](https://github.com/ShinWooHyeon/Selection_of_best_location_project/assets/118239192/ccfcff9d-2652-4fbc-abfd-42b79634c9e3)
